@@ -24,6 +24,15 @@
   height: 757px;
 }
 
+.blocks{
+  display: flex;
+}
+.about{
+  display:flex;
+}
+.logo-column{
+  background-color:black;
+}
 .footer .container {
     display: flex;
     justify-content: space-between;
