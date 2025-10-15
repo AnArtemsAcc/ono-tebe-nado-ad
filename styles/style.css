@@ -157,7 +157,7 @@ body {
 .lots {
   width: 1052px;
   height: 723px;
-  margin: 243px 24px 0;
+  margin: 180px 24px 0;
 }
 
 .lots__heading {
@@ -261,7 +261,7 @@ body {
   justify-content: center;
 }
 
-.about__logo-circle #logo-circle{
+.about__logo-circle #logo-circle {
   width:148px;
   height: 114px;
 }
