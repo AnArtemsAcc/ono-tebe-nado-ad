@@ -135,7 +135,6 @@ body {
 .cover__description-text {
   font-size: 22px;
   line-height: 28px;
-  letter-spacing: 0.9em;
   text-transform: uppercase;
   color: white;
   word-spacing: 18px;
@@ -158,8 +157,7 @@ body {
 .lots {
   width: 1052px;
   height: 723px;
-  margin: 90px auto 0;
-  padding: 0 24px;
+  margin: 243px 24px 0;
 }
 
 .lots__heading {
@@ -243,8 +241,7 @@ body {
 .about {
   width: 1052px;
   height: 595px;
-  margin: 180px auto 0;
-  padding: 0 24px;
+  margin: 180px 24px 0;
   display: flex;
   gap: 95px;
 }
@@ -262,6 +259,11 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.about__logo-circle #logo-circle{
+  width:148px;
+  height: 114px;
 }
 
 .about__content {
@@ -327,7 +329,6 @@ body {
 
 .footer__link {
   text-decoration: none;
-  border-bottom: 1px solid currentColor;
 }
 
 .footer__social-links {
